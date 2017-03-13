@@ -1,6 +1,6 @@
 # Programming Assignment: Recursion
 
-## Exercise 1: Pascal’s Triangle
+## Exercise 1: Pascal’s Triangle
 
 ## Exercise 2: Parentheses Balancing
 
