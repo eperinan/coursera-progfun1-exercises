@@ -29,3 +29,6 @@ project/plugins/project/
 .idea_modules/
 
 .DS_Store
+project/project/
+src/main/main.iml
+src/test/test.iml
